@@ -1,0 +1,14 @@
+{
+  "name": "node-chat",
+  "version": "0.0.0",
+  "description": "Chat on nodejs and websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tarzak",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
